@@ -1,9 +1,9 @@
 # Example TypeScript 2 Project
 
-+ 用 TypeScript 2.0 RC 版，有不少功能上的提升。
-	+ strict null check
-	+ control flow analysis
-	+ literal types
++ 用 TypeScript 2.0 RC 版，有不少很实用的新功能
+	+ [strict null check](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#null--and-undefined-aware-types)
+	+ [control flow analysis](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#control-flow-based-type-analysis)
+	+ [tagged union types](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#tagged-union-types)
 + 用 tslint 保证风格统一。装上 vscode 插件，实时确认风格。
 + 用 typings 为 npm 依赖包加上 API 类型文件。
 
