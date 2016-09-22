@@ -1,7 +1,5 @@
 import * as React from "react";
 
-import { HelloList } from "./HelloList";
-
 export function App() {
-	return <HelloList length={100}/>;
+	return <div> hello world </div>;
 }
